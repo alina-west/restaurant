@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+body{
+    background: #e2e0d4 ;
+    color: #D6BD68;
+}
+header{
+    display: flex;
+    justify-content: center;
+}
+.Logo, .Top_menu{
+    display: inline-block;
+}
+.Top_menu li{
+   display: inline-block; 
+}
+.Top_menu a{
+    font-family: Arial;
+    font-size: 15px;
+    color: black;
+}
