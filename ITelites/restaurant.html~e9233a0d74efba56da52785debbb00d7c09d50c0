@@ -13,6 +13,13 @@
     <html>
 <img src="https://assets.hiltonstatic.com/hilton-asset-cache/image/upload/c_fill,w_1920,h_1080,q_70,f_auto,g_auto/g_auto/Imagery/Property%20Photography/Conrad/N/NYCCNCI/Conrad_New_York_Midtown_Dabble.jpg" alt="Restaurant" width="1500" height="500">
 
+<<<<<<< HEAD
+<h1 class="box">Dining</h1>
+<img class="picture1" scr="c:\Users\Админ\Pictures\Изображение WhatsApp 2023-09-16 в 16.40.20.jpg" alt="Dining">
+
+    </html>
+</body>
+=======
 <h1 class="box">DABBLE</h1>
     <div class='confused'>
         <h2>BEST DINING</h2>
@@ -39,3 +46,4 @@
     <h3 class='para2'><b>+90 242 524 55 00 - AMARA LUXURY</b></h3>
     <p class='para3'>Call us, it's toll free.</p>
 </footer>
+>>>>>>> e2b277b59a4d7a57fb8cc256e04be3aae0d52da9
