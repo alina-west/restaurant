@@ -2,3 +2,14 @@ div {
     padding: 300px and 500px;
     background-color: #060606;
   }
+
+  div.scroll-container {
+    background-color: #333;
+    overflow: auto;
+    white-space: nowrap;
+    padding: 10px;
+  }
+  
+  div.scroll-container img {
+    padding: 10px;
+  }
