@@ -1,0 +1,72 @@
+.para {
+    font-size: larger;
+    font-style: initial;
+    letter-spacing: 2px;
+    opacity: 1px;
+    padding-top: 1px;
+    padding-left: 5px;
+    margin-top: 0;
+    font-weight: 0;
+     }
+        
+     .confused {
+        opacity: 2px;
+        font-style: inherit;
+        background-image: url('https://plainbackground.com/plain1024/f2dcbf.png');
+        padding-left: 50px;
+        padding-top: 20px;
+        padding-bottom: 0;
+        margin-left: 300px;
+        margin-bottom: 0;
+        width: 500px;
+        height: 350px;
+        letter-spacing: 5px;
+        }
+
+        .brain {
+            margin: 0;
+            padding-right: 20px;
+        }
+
+        .believe {
+            margin-left: 490px;
+            width: 650px;
+            height: 700px;
+            top: 800;
+            left: 358;
+            background-position-x: left;
+        }
+
+        .awful {
+            margin-left: 250px;
+            margin-top: 0;
+            width: 600px;
+            height: 460px;
+            border: 5px solid rgb(255, 255, 255);
+            padding: 10px;
+            background-color: aliceblue;
+        }
+
+        .luck {
+            background-image: url('https://plainbackground.com/plain1024/f2dcbf.png');
+            width: 450px;
+            height: 200px;
+            margin-left: 350px;
+            margin-right: 90px;
+            margin-top: 0%;
+            padding-top: 30px;
+            padding-left: 30px;
+            padding-right: 50px;
+            letter-spacing: 3px;
+            font-style: initial;
+        }
+
+        body {
+            background-image: url('https://wallpapercave.com/wp/wp3371800.jpg');
+        }
+
+        .text {
+            text-decoration: overline;
+            font-weight: bold;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }

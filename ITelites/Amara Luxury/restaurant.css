@@ -4,7 +4,8 @@ h2.why {
     color: rgb(143, 127, 103);
     padding-left: 70px;
     font-size: x-large;
-    margin: 0;
+    margin-left: 50px;
+
 }
 
 h4.class {
@@ -151,7 +152,8 @@ h4.class {
 .tab {
   overflow: hidden;
   border: 1px solid #ccc;
-  background-color: #f1f1f1;
+  background-color:blanchedalmond;
+  
 }
 
 /* Style the buttons inside the tab */
@@ -197,4 +199,35 @@ h2{
     color: rgb(140, 79, 0);
 }
 
+
+h1{
+    color: rgb(118, 87, 47);
+}
+body{
+    background-color: #fffffc;
+}
+nav{
+    background:burlywood;
+    height: 80px;
+    width: 100%;
+}
+nav ul{
+    float: right;
+    margin-right: 20px;
+}
+nav ul li{
+    display: inline-block;
+    line-height: 80px;
+    margin: 0 5px;
+}
+nav ul li a{
+    color: rgb(0, 0, 0);
+    font-size: 17px;
+    padding: 7 px 13px;
+    border-radius: 3px;
+    text-transform: uppercase;
+}
+a.active,a:hover{
+    background: #d1bea8
+}
 
