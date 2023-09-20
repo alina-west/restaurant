@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="restaurant.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Restaurant</title>
+    <figure class='side'><img class='img' src="https://lh3.googleusercontent.com/pw/AIL4fc_NA2uOdsttb7ghy206SRFzn-QbFDan7UwaBZ-nN1pSUouygasw4wfMvEcWF_gyHmf-Oksr9RJHcfR9H-sZVT7NWLHE_BNzv_Zz0TU5bH0cZrjq48toqwXd4fxapa7Aw_xZhd40lFPK8Zi6usk-b9VmFQfxGYC-LTVrgQhyKZli5MjmxjMLEPkYCuZaei2UHWY0MuneWId4xvs92D9qLvZzJIbavwqlHsswPszyU4Olp-EZ8aeAww0ykOh0X3Bj9bYYg40Q64w2trmaHoFEy__8ZqPlv5f5HoKfHSzzk2htASvCHJKxlV5knrDMD2vtGVmvhMikMQXZuVWlBTT1z0pZ9EcU3UwTTkfEl43M8R31p3q8cUt7YlT_lrVhmNwY1v4Vwwi82u3gzos2vF1ElDEsgsyZbnVuU4KcPkn32ysad6TkZB2VCKS5m4VqTcdha31zW0PgqnQihdEvprEIaSwlYZ963Yu5WIM1OVlo6t1o8plLbaUISXiFpYJvuQ6ddlNdyhBwSuTLTznOzGzsB7uDl2x7VPjUs7V0QbqouKBCM--bD964KeEk1BZCPdeI_KinxiNQdyfJA1GZfMeK7MaDtq4r-ThZ3rIucB8PbEUglGI8-SACocmcTy_KogArfASDaWH9zod_49Yr1lAe3G0p8IcUrgATHQ57xzc2k2sWtvZlRsSPo4fGH9YdFqbpyA6eqWm1Sb-avERwIOIe27Fw-IcSK450XjCT8nmq3p6bLf4IJkbN1DZdESYBDfl59pjvXIeNU6NEE6Ed28QRTFXV665AymCh8pPE72q0ZRLjbnMGNj08rF9wkXLl__pv_7XSrnW6paO_T8MKtU7cEHpyzbzj5OyWwSL9QopOtcQXEI6TqsZDplJAdkHFqRpUgwwJqGc_hsYLp90Ouemt9fi97v8=w225-h225-s-no?authuser=0" alt=""></figure>
+    <h4 class='class'>Istanbul , Turkiye</h4>
+    <h2 class='why'>AMARA LUXURY RESTAURANT</h2>
+        
+</head>
+
+<nav>
+  <ul>
+    <li><a href="#">Gallery</a></li>
+    <li><a href="#">Location</a></li>
+    <li><a href="#">Menu</a></li>
+    <li><a href="#">About Founder</a></li>
+    
+  </ul>
+</nav>
+<body class='scroll'>
+    <html>
+<img src="https://assets.hiltonstatic.com/hilton-asset-cache/image/upload/c_fill,w_1920,h_1080,q_70,f_auto,g_auto/g_auto/Imagery/Property%20Photography/Conrad/N/NYCCNCI/Conrad_New_York_Midtown_Dabble.jpg" alt="Restaurant" width="1500" height="500">
+
+<h1 class="box">DABBLE</h1>
+    <div class='confused'>
+        <h2>BEST DINING</h2>
+        <div class='para'>
+            <p class='brain'>Enjoy the Bahamian breezes and stunning turquoise waters of the bay of Cable Beach from Amara, an inviting open-air eatery. Amara serves Goldwynn pool guests, and beach goers from the lounge, beach areas and luxurious cabanas. Sip on a refreshing cocktail, enjoy one of our favorite international tapas and snacks, or indulge a Bahamian delicatessen on our terrace with non-stop stunning pool-to-sea views.
+            </p>   
+        </div>
+        <div><img class='believe' src="https://lh3.googleusercontent.com/pw/AIL4fc_-hL4kf-pqERq_wo0fL3ucQ-9sa3DUpaEgNGhjjOwfK4913HHsocgfA_Fx20dlNJuGINfaP6e3R8kkkxq5AGjFN7kal8x7mvrMGL1QBl_K6MRPgFmpcdrpInXzSchQkDcYiyhFBWqUqLiILT9YfAKCPDGlZ1qtubyIogKtg68NXxfhlf94lPdB2TFaIwD0d0mDPe7oZT3I7VDF_eT7XCciBXthb7PT9e3cqKfwqMw8RYIWW3nv95L8sRMleL3gGA0-vn8BBWB13l4HdAEAPYoZ3rkm3CncG9EbK3Ghi_Mo5iGtrUJR79Rbkg5ls15MRbjsbzCUOuP8fnLiuxSpRknePtGdgNOpCh9ZYrmItBe1VV2rcT8DCmTkZEu-bUei2h6D_qM5sn_whi4acnbqh2bOvV4qNtABmt89MSJzfY_TbVjPg6jEQcUC4IkdIuNOJd3lCYc2tYmIIAu1Y1POXMzdtj5WQuOyoao2b8PbIBhhZIyP0O37xMP7r1htODLzBvWrkM0a-W0QFBHUDhfD0wJXAKgdOYtARDX_MOlxKGgnENZIBp1BrETAvd4CqrqcqvX9RGHnqDjfVr_HZ-4dyTrldLBa7SWIAFOMGUhRkGYPNqzrxaDugmKd7JMSKulun71klY49LFPCbXOOXm11t7FtFXQUPasmHPOnYVT558MK78aiEJ-x6QzmOkqyajgQYEfSr6pPNoES5nQwyXavOlsW_18YaKdLyc6zi-uLDk5i2q5EoJRXw-DktbtqmTK9gJn8lPrbOSLza2aIaMQaZ22AUz9d-ZuxPpatS8shfuHN9YpiuwT4n47Naeq6e1-rxI7DAK-p0lg_c8Sa-42ym80WFC-2Jvk7frxKKflQJIAFSpHBRpO2i-ZOq2N88BPw9qTxOWzrtSWdEaqDtr7A9iJyfLE=w693-h924-s-no?authuser=0" alt="">
+        </div>
+    </div>
+    <img class='awful' src="https://lh3.googleusercontent.com/pw/AIL4fc9pMH4MSDe5BUdd8T7l69oRlTpaEsYmr2rW14Ftf4DJ16NJnrrDwQQH8k3q59zfzNpFRYTSQmNRrpa8StFKugyGRDt7fcRRECGFzJ7Yef1ADvM3K_KuZnI8TICUvD6GQF9TThan0j4LVFda7uEjpyaZHWP1DdJi8ViNTAZHxDFb8UhnYmjgFQZd-Q65xAhIkPWVGQTlOGgoMPtQFXT-3iy1GPp7j9ZpLgKmfbORMWFc-qsGCk-nWpvhNrUwnR1VLIawBtFVWCKfEn-YPzopCs3fgtaJYKM-TeCD04hPuWD2wqHTNg47kvm3JgSDDCg9OfIGRARjjv5HI-sSw1pygqWUV_qcU2a32Xca-SmurbNaz82jafnpGRuxFvZZdaRLunepOZUZiMoqw1nJSVaCXQMxLnepn37QAYnMZyqJQ1mgX0uESJaVaRO2tHqYx53-4IhsGKte6jK_onSp2unKHcgawCDXm9k_sUZpSGKw_4Fes3q0NqbdseLLbjAcK8tkM8onV6EYDDZvNS3stdYWucVhkHA1cU7kW4Eww17OxNk87qte0vNzCQ3zvkarY1YSXFoLxa5F-nTAV4f-MC93pxiV-IFU_YkouJoi5yQx-ggs91M8CPbXyVwAzYT5l43y9b4xZxi1_w-U520m_Pmu6VahEFWhuxkyLYxP4XMW6RMSl0Uw1RQmlIpaTDtOrciaWHlgjdf6SCRqyEbdXoZH9WTzeFmFf8mnHQOmlvEqjoZsW_-o_hDsU0u_YRzWS0D2mICv4qKTpcl2GTLmCtyVeghjA_sLBjur1gEX_gsTdRaN5QENfmz3tKeYMkjDRBUPLHgdqTXPbDukSGsoFrAi1xRe12UpZMBgymriGqwqHnonfHZDAMyi_GpI659UmRMLdl_xyFmx4y_fR_fLIZI52arJ9J8=w693-h924-s-no?authuser=0">
+    
+     <div class='luck'>
+            <h1 class="tuh">HOURS</h1>
+             <p class='ol1'><b>Breakfast:</b> 6:30 am – 11 am</p>
+             <p class='ol2'><b>Lunch:</b> 12 pm – 5 pm</p>
+             <p class='ol3'><b>Dinner:</b> 5 pm – 11 pm</p>
+             <p class='ol4'><b>Bar:</b>12 pm – 11:45 pm</p>
+           </div>
+    </html>
+
+    <h1 style="margin-left: 700px;">MENU</h1>
+    <div class="tab">
+        <button  class="tablinks" onclick="openCity(event, 'Breakfast')">Breakfast</button>
+        <button class="tablinks" onclick="openCity(event, 'Lunch')">Lunch</button>
+        <button class="tablinks" onclick="openCity(event, 'Dinner')">Dinner</button>
+      </div>
+      
+      <div id="Breakfast" class="tabcontent">
+        <h3>6:30 AM - 11:00 AM</h3>
+        <h2>CONTINENTAL BREAKFAST</h2>
+            <p>Buffet variety including pastries, juice, yogurt, granola, preserves, regular coffee, select gourmet tea</p>
+            <h3>$25</h3>
+
+            <h3>TWO EGGS FREESTYLE</h3>
+            <p>eggs your way | potato hash | toast</p>
+            <h3>$27</h3>
+
+            <h3>PANCAKES OR WAFFLES</h3>
+            <p>berry compote | maple syrup</p>
+            <h3>$30</h3>
+
+            <h2>COLD JUICE</h2>
+            <h3>$12</h3>
+            <p>ORANGE
+                GRAPEFRUIT</p>
+                <p>CRANBERRY
+                    APPLE</p>
+
+                    <h2>HOT BEVERAGES</h2>
+                    <h3>ESPRESSO
+                        $8</h3>
+                        <h3>CAPPUCCINO
+                            $10</h3>
+                            <p>Choice of milk: whole milk, half & half, skim, soy, almond, oat</p>
+                            <h3>LATTE
+                                $10</h3>
+      </div>
+      
+      <div id="Lunch" class="tabcontent">
+        <h3>12:00 PM - 5:00 PM</h3>
+        <h2>SALADS</h2>
+        <h3>FETA SALAD</h3>
+        <p>marinated Greek feta | heirloom cherry tomato salad | micro basil | herb crostini</p>
+        <h3>$25</h3>
+
+        <h3>CAESAR</h3>
+        <p>herb ciabatta croutons | romaine lettuce | parmesan cheese | anchovies</p>
+        <h3>$24</h3>
+
+        <h2>APPETIZERS</h2>
+<h3>HUMMUS CRUDITE GARDEN</h3>
+<p>seasonal baby vegetables | spiced pita bread</p>
+<h3>$35</h3>
+
+<h3>TUNA CARPACCIO</h3>
+<p>pickled enoki mushroom | watermelon radish | purple ninja radish | fresno peppers | salsa verde</p>
+<h3>$34</h3>
+
+<h2>MAINS</h2>
+<h3>FRIED ARTICHOKE SANDWICH</h3>
+<p>udi's gluten-free bun | purple cabbage slaw | pickles | vegan jalapeno ranch dressing</p>
+<h3>$28</h3>
+
+<h3>MARGHERITA FLATBREAD</h3>
+<p>woodfired crust | fresh mozzarella | san marzano tomato sauce | basil</p>
+<h3>$30</h3>
+
+<h3>CHARRED OCTOPUS</h3>
+<p>bemon ricotta | marinated tomatoes | arugula</p>
+<h3>$38</h3>
+
+<h2>DESSERT</h2>
+<h3>NEW YORK CHEESECAKE</h3>
+<h3>$18</h3>
+
+<h3>DARK CHOCOLATE LAYERED CAKE</h3>
+<h3>$21</h3>
+      </div>
+      
+      <div id="Dinner" class="tabcontent">
+        <h3>5:00 PM - 11:00 PM</h3>
+        
+        <h2>APPETIZERS</h2>
+        <h3>CHEESE & CHARCUTERIE</h3>
+        <p>selection of artisan cheeses | cured meats | marinated olives | fig jam</p>
+        <h3>$34</h3>
+
+        <h3>SHAREABLE TIER</h3>
+        <p>beef sliders | open-faced crab cake sliders | fig crostini</p>
+        <h3>$50</h3>
+
+        <h3>FIG CROSTINI</h3>
+        <p>honey-thyme goat cheese | balsamic glaze | microgreens</p>
+        <h3>$27</h3>
+        <h2>MAINS</h2>
+        <h3>LOBSTER PASTA</h3>
+        <p>squid ink pasta | pancetta | bottarga | tarragon butter</p>
+<h3>$48</h3>
+<h3>SCALLOP RISOTTO</h3>
+<p>seasonal mushrooms | brown butter</p>
+<h3>$45</h3>
+<h3>TOMAHAWK STEAK FOR TWO (38OZ)</h3>
+<h3>$150</h3>
+<h2>DESSERT</h2>
+<h3>BLACK FOREST DARK CHOCOLATE BROWNIE</h3>
+<h3>$36</h3>
+<h3>PEACH PISTACHIO CHEESECAKE</h3>
+<h3>$45</h3>
+<h3>ASPARAGUS</h3>
+<h3>$29</h3>
+</div>
+
+      <script>
+        function openCity(evt, cityName) {
+          var i, tabcontent, tablinks;
+          tabcontent = document.getElementsByClassName("tabcontent");
+          for (i = 0; i < tabcontent.length; i++) {
+            tabcontent[i].style.display = "none";
+          }
+          tablinks = document.getElementsByClassName("tablinks");
+          for (i = 0; i < tablinks.length; i++) {
+            tablinks[i].className = tablinks[i].className.replace(" active", "");
+          }
+          document.getElementById(cityName).style.display = "block";
+          evt.currentTarget.className += " active";
+        }
+        </script>
+<h1 style="margin-left: 670px;">LOCATION</h1>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3200.0103710283056!2d30.563959175412712!3d36.67425167478989!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14c3b8e68c5582c5%3A0x830f31bb40cc40!2sAmara%20Luxury%20Resort%20%26%20Villas!5e0!3m2!1sen!2skz!4v1695023902613!5m2!1sen!2skz" width="1601" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+</body>
+<footer class='contact' id="#">
+    <p class='para1'>How can we help?</p>
+    <h3 class='para2'><b>+90 242 524 55 00 - AMARA LUXURY</b></h3>
+    <p class='para3'>Call us, it's toll free.</p>
+</footer>
