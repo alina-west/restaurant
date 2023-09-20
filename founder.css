@@ -1,8 +1,3 @@
-.madi {
-    margin-left: 700px;
-    margin-top: 200px;
-}
-
 .para {
     font-size: larger;
     font-style: initial;
@@ -12,15 +7,8 @@
     padding-left: 5px;
     margin-top: 0;
     font-weight: 0;
-    width: 550px;
-    height: 300px;
-    margin-left: 150px;
-    margin-top: 100px;
-    background-image: url('https://plainbackground.com/plain1024/f2dcbf.png');
-    margin-bottom: 0px;
-
      }
-
+        
      .confused {
         opacity: 2px;
         font-style: inherit;
@@ -36,20 +24,49 @@
         }
 
         .brain {
-            margin-top: 20px;
-            padding: 0;
-            letter-spacing: 3px;
-            padding-top: 50px;
-            padding-left: 10px;
+            margin: 0;
+            padding-right: 20px;
         }
 
-        
         .believe {
-            margin-left: 650px;
-            width: 450px;
-            height: 550px;
+            margin-left: 490px;
+            width: 650px;
+            height: 700px;
             top: 800;
             left: 358;
             background-position-x: left;
-            margin-top: 0px;
+        }
+
+        .awful {
+            margin-left: 250px;
+            margin-top: 0;
+            width: 600px;
+            height: 460px;
+            border: 5px solid rgb(255, 255, 255);
+            padding: 10px;
+            background-color: aliceblue;
+        }
+
+        .luck {
+            background-image: url('https://plainbackground.com/plain1024/f2dcbf.png');
+            width: 450px;
+            height: 200px;
+            margin-left: 350px;
+            margin-right: 90px;
+            margin-top: 0%;
+            padding-top: 30px;
+            padding-left: 30px;
+            padding-right: 50px;
+            letter-spacing: 3px;
+            font-style: initial;
+        }
+
+        body {
+            background-image: url('https://wallpapercave.com/wp/wp3371800.jpg');
+        }
+
+        .text {
+            text-decoration: overline;
+            font-weight: bold;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
         }
