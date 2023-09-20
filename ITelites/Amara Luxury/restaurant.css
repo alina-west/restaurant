@@ -230,4 +230,6 @@ nav ul li a{
 a.active,a:hover{
     background: #d1bea8
 }
-
+.rom{
+    position: center;
+}
