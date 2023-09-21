@@ -1,3 +1,3 @@
 # restaurant
 
-https://restaurant/ITelites/AmaraLuxury/amara.html
+https://Restaurant/ITelites/AmaraLuxury/amara.html
