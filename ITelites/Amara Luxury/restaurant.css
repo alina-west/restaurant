@@ -99,9 +99,7 @@ h4.class {
         }
 
         .contact {
-            margin-top: 200px;
-            margin-left: 200px;
-            margin-right: 1000px;
+            position: center;
             }
 
             .para1 {
@@ -230,4 +228,7 @@ nav ul li a{
 a.active,a:hover{
     background: #d1bea8
 }
-
+.rom{
+    position: center;
+    margin: 0px;
+}
