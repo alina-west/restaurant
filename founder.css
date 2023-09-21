@@ -74,4 +74,5 @@
         .qwerty {
             border: 3px solid rgb(241, 241, 153);
             padding: 4px;
+            border-radius: 10px;
         }
